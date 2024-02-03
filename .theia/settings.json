@@ -1,5 +1,9 @@
 {
-    "editor.autoIndent": "none",
+    "editor.autoIndent": "full",
     "editor.formatOnSave": false,
-    "python.linting.lintOnSave": true
+    "python.linting.lintOnSave": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true
 }
